@@ -1,5 +1,6 @@
 <?php
 session_start();
+// Home page updated for UI improvement
 
 // Database connection with error handling
 $db_path = '../includes/db_connect.php';

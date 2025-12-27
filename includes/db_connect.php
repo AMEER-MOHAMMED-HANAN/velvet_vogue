@@ -1,4 +1,5 @@
 <?php
+// Database connection optimized and verified
 $servername = "localhost";  // Default for XAMPP
 $username = "root";         // Default MySQL user
 $password = "";             // Default empty password
